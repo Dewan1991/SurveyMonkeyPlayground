@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Survey Monkey Playground</string>
+    <string name="take_feedback_template">Take feedback [Template]</string>
+    <string name="take_feedback">Take feedback [Custom]</string>
+    <string name="take_feedback_link">Take feedback [Link]</string>
+    <string name="hello_monkey_survey">Hello Monkey Survey!</string>
+
+    <string name="promoter_prompt">We\'re glad you love our app! Now please rate us in the app store!</string>
+    <string name="detractor_prompt">We\'re sorry you\'re experiencing problems with our app, we promise to address the issues you experienced as quickly as possible.</string>
+    <string name="thanks_prompt">Thanks for responding to our survey!</string>
+    <string name="error_prompt">SM SDK Error - see logs</string>
+    <string name="line_login">Line login</string>
+    <string name="line_logout">Line logout</string>
+</resources>
